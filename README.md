@@ -8,10 +8,8 @@ I'm Richa Rai, currently pursuing a bachelor's in Computer Science Engineering w
 
 <h1 align="left">Connect with me:</h1>
 <p align="left">
-<a href="https://twitter.com/brutalg21614093" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brutalg21614093" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/richa-rai-99123a234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="richa-rai-99123a234" height="30" width="40" /></a>
-<a href="https://instagram.com/_hardik_kwatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_hardik_kwatra" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hardik_kwatra201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hardik_kwatra201" height="30" width="40" /></a>
+<a href="https://instagram.com/_richa.rai_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_richa.rai_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/Richaa15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Richaa15" height="30" width="40" /></a>
 </p>
 
