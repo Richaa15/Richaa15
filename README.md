@@ -1,7 +1,7 @@
 ### Hey there 👋
 I'm Richa Rai, currently pursuing a bachelor's in Computer Science Engineering with specialization in AI & ML.
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif)">
 
 # 💫 About Me:
 🔭 I’m currently working on Data Science projects.<br>🤝 I am currently seeking guidance and support in finding internship opportunities that align with my interests and career goals. I am eager to gain practical experience and apply my skills in a professional setting.<br>🌱 I’m currently learning Data Science & AWS.<br>♟️ Apart from coding, I enjoy dancing, playing chess, and experimenting with new recipes.
