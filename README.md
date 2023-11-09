@@ -3,7 +3,7 @@ I'm Richa Rai, currently pursuing a bachelor's in Computer Science Engineering w
 
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif">
 
-# 💫 About Me:
+# 💫 About Me-
 🔭 I’m currently working on Data Science projects.<br>🤝 I am currently seeking guidance and support in finding internship opportunities that align with my interests and career goals. I am eager to gain practical experience and apply my skills in a professional setting.<br>🌱 I’m currently learning Data Science & AWS.<br>♟️ Apart from coding, I enjoy dancing, playing chess, and experimenting with new recipes.
 
 <h1 align="left">Connect with me:</h1>
